@@ -25,8 +25,8 @@
 <h2>:zap: GitHub Stats</h2>
 <br>
 <a href="https://github.com/jadelasmar/github-readme-stats">
-  <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api?username=jadelasmar&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="elBrown's github stats"/>
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=jadelasmar&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="elBrown's github stats"/>
 </a>
 <a href="https://github.com/jadelasmar/github-readme-stats">
-  <img align="center" width="475px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadelasmar&layout=compact&theme=material-palenight"/>
+  <img align="center" width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadelasmar&layout=compact&theme=material-palenight"/>
 </a>
