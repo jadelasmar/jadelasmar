@@ -1,13 +1,9 @@
 ### <h1 align="center" >:raised_hand: Hey there, It's J :wave:</h1>
 
-<p align="center">
-</p>
-
 <br>
 <br>
 
 *  :part_alternation_mark: I’m currently learning <b>Unity</b> :computer:
-* :mag_right: I'm looking to work as a Game Developer
 * :space_invader: I'm a full-time Gamer :video_game:
 <br>
 
