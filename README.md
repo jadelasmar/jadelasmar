@@ -1,7 +1,7 @@
 ### <h1 align="center" >:raised_hand: Hey there, It's J :wave:</h1>
 
 <p align="center">
-	<img src="https://github.com/jadelasmar/elBrown/blob/main/.github/images/Banner.png"/>
+	<img src="https://github.com/jadelasmar/elBrown/blob/main/.github/images/Banner.png">
 </p>
 
 <br>
