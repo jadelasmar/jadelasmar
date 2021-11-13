@@ -3,8 +3,8 @@
 <br>
 <br>
 
-*  :part_alternation_mark: I’m currently learning <b>Unity</b> :computer:
-* :space_invader: I'm a full-time Gamer :video_game:
+*  :part_alternation_mark: <b>Unity</b> :computer:
+* :space_invader: Gamer :video_game:
 <br>
 
 <a href="https://www.linkedin.com/in/jad-elasmar-16b075202/">
