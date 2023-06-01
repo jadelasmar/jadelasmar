@@ -1,8 +1,5 @@
 ### <h1 align="center" >:raised_hand: Hey there, It's J :wave:</h1>
 
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elasmar/)
-
 <br>
 <br>
 
